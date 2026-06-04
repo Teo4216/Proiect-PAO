@@ -1,0 +1,13 @@
+# IntelliJ
+/workspace.xml
+/tasks.xml
+/usage.statistics.xml
+/dictionaries
+/shelf
+/aws.xml
+/httpRequests
+/dataSources/
+/dataSources.local.xml
+/sqlDataSources.xml
+/dynamic.xml
+/uiDesigner.xml
